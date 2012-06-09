@@ -14,6 +14,7 @@ using namespace std;
 void PrintMessage( int n = 5 )
 {
 	cout << "Your number was " << n << endl;
+	cout << "Your number was " << n+1 << endl;
 }
 
 int main() {
